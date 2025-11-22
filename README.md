@@ -1,70 +1,37 @@
 # my-research-log
 
-Welcome to my Paper Summaries repository! This repo contains summaries of the research papers I read, mainly in **NLP**, **machine learning**, and related fields.
+Welcome to my Paper Summaries repository! This log contains daily summaries of research papers I read, mainly focused on NLP, Machine Learning, and Autonomous Agents.
 
-## Purpose
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Focus](https://img.shields.io/badge/Focus-NLP_%26_Agents-blue)
+![Papers Read](https://img.shields.io/badge/Papers_Read-1-orange)
 
-The goal of this repository is to:
+<!-- ## 🏆 Hall of Fame
+*The most impactful papers I've read so far:*
+1. **[Paper Title 1]** - Changed how I view prompting.
+2. **[Paper Title 2]** - The best introduction to Agentic workflows.-->
 
-* Track my progress in reading academic papers.
-* Improve my understanding through summarization.
-* Keep all notes in one organized place.
-* Build a reference for future projects, exams, and research.
+## 📅 Daily Log
 
-## Structure
-
-Each summary is stored as a separate file and generally includes the following sections:
-
-* **Paper Title**
-* **Authors & Year**
-* **Problem Statement**
-* **Method / Approach**
-* **Key Contributions**
-* **Experiments & Results**
-* **Limitations**
-* **My Notes / Thoughts**
-
-Feel free to adjust this structure to fit your preference.
-
-## 📂 Folder Organization
-
-```
-root
-│
-├── NLP/
-├── Computer_Vision/
-├── Machine_Learning/
-├── Ethics_in_AI/
-└── Other/
-```
-
-You can organize papers based on topic, method, or course.
-
-## 🚀 How to Use
-
-* Browse folders based on topic.
-* Open any summary to quickly understand the paper.
-* Use this repo to revise for exams or inspire project ideas.
-
-## ✍️ My Workflow
-
-1. Select a paper.
-2. Read it once quickly.
-3. Re-read and take notes.
-4. Write a clear and concise summary.
-5. Add thoughts about how this connects to my studies or projects.
-
-## 🤝 Contributions
-
-This is a personal learning repository, but suggestions are welcome.
-
-## ⭐ Future Plans
-
-* Add visual diagrams for complex papers.
-* Include code snippets when possible.
-* Summarize papers related to my thesis or internships.
+| Date | Paper Title | Tags | Key Takeaway |
+| :--- | :--- | :--- | :--- |
+| Nov 22 | [Argumentation Structure Prediction](link_to_your_note.md) | `Transformer` `Foundational` | Introduced self-attention; replaced RNNs. |
+| Nov 23 | ...| ... | ... |
+| Nov 24 | ... | ... | ... |
 
 ---
 
-If you have recommendations for papers or tools to improve this workflow, feel free to let me know!
+## 📂 Structure
+I organize my notes by day and month.
+- `2025/11` - November readings
 
+## Contributions & Recommendations
+
+I welcome suggestions to make this a better learning resource!
+
+* **Paper Recommendations:** Open an Issue with the title `[RECOMMENDATION] Paper Name` if you have a must-read for NLP or Agents.
+* **Fixes/Improvements:** Found a mistake in one of my summaries? Please open a Pull Request to fix it.
+---
+
+Feel free to use this repo to inspire project ideas! Happy reading! 
+<!--  revise for exams or . -->
