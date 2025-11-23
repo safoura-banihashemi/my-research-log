@@ -15,9 +15,10 @@ Welcome to my Paper Summaries repository! This log contains daily summaries of r
 
 | Date | Paper Title | Tags | Key Takeaway |
 | :--- | :--- | :--- | :--- |
-| Nov 22 | [Argumentation Structure Prediction](link_to_your_note.md) | `Transformer` `Foundational` | Introduced self-attention; replaced RNNs. |
-| Nov 23 | ...| ... | ... |
-| Nov 24 | ... | ... | ... |
+| Nov 24 | [Argumentation Structure Prediction](link_to_your_note.md) | ... | ... |
+| Nov 25 | [GPT-4 Passes the Bar Exam](link_to_your_note.md)| ... | ... |
+| Nov 26 | [Rule-Based Reasoning with LLM](link_to_your_note.md) | ... | ... |
+| Nov 27 | [LEGALBENCH](link_to_your_note.md) | ... | ... |
 
 ---
 
