@@ -15,7 +15,7 @@ Welcome to my Paper Summaries repository! This log contains daily summaries of r
 
 | Date | Paper Title | Tags | Key Takeaway |
 | :--- | :--- | :--- | :--- |
-| Nov 24 | [Argumentation Structure Prediction](link_to_your_note.md) | ... | ... |
+| Nov 24 | [Argumentation Structure Prediction](link_to_your_note.md) | Argument Mining | ... |
 | Nov 25 | [GPT-4 Passes the Bar Exam](link_to_your_note.md)| ... | ... |
 | Nov 26 | [Rule-Based Reasoning with LLM](link_to_your_note.md) | ... | ... |
 | Nov 27 | [LEGALBENCH](link_to_your_note.md) | ... | ... |
