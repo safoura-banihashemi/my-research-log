@@ -17,9 +17,9 @@ Welcome to my learning progress repository! This log contains daily summaries of
 | ID | Paper Title | Topics |
 | :--- | :--- | :--- |
 | 1 | [Argumentation Structure Prediction](link_to_your_note.md) | Argument Mining |
-| 2 | [GPT-4 Passes the Bar Exam](link_to_your_note.md)| ... |
-| 3 | [Rule-Based Reasoning with LLM](link_to_your_note.md) | ... |
-| 4 | [LEGALBENCH](link_to_your_note.md) | ... |
+| 2 | [GPT-4 Passes the Bar Exam](link_to_your_note.md)| Legal Reasoning |
+| 3 | [Rule-Based Reasoning with LLM](link_to_your_note.md) | Symbolic Reasoning |
+| 4 | [LEGALBENCH](link_to_your_note.md) | Legal Benchmark |
 
 ## 📂 Structure
 My notes are organized into three main folders:
