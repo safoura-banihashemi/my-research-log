@@ -24,7 +24,7 @@ Welcome to my Paper Summaries repository! This log contains daily summaries of r
 
 ## 📂 Structure
 I organize my notes by day and month.
-- `2025-11` - November readings
+- `2025-12` - November readings
 
 ## Contributions & Recommendations
 
