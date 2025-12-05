@@ -23,10 +23,9 @@ Welcome to my learning progress repository! This log contains daily summaries of
 
 ## 📂 Structure
 My notes are organized into three main folders:
-- Papers
-- NLP
-- Agents
-
+- <a href="NLP">Papers</a>
+- <a href="Papers">Papers</a>
+- <a href="Agents">Agents</a>
 ## 🚀 Goals
 - Develop strong foundational knowledge in NLP
 - Understand key concepts and frameworks in Agent systems
