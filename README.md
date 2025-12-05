@@ -23,8 +23,8 @@ Welcome to my learning progress repository! This log contains daily summaries of
 
 ## 📂 Structure
 My notes are organized into three main folders:
-- <a href="NLP">Papers</a>
 - <a href="Papers">Papers</a>
+- <a href="NLP">NLP</a>
 - <a href="Agents">Agents</a>
 ## 🚀 Goals
 - Develop strong foundational knowledge in NLP
