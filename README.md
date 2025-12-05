@@ -15,10 +15,10 @@ Welcome to my Paper Summaries repository! This log contains daily summaries of r
 
 | Date | Paper Title | Tags | Key Takeaway |
 | :--- | :--- | :--- | :--- |
-| Dec 1 | [Argumentation Structure Prediction](link_to_your_note.md) | Argument Mining | ... |
-| Dec 2 | [GPT-4 Passes the Bar Exam](link_to_your_note.md)| ... | ... |
-| Dec 3 | [Rule-Based Reasoning with LLM](link_to_your_note.md) | ... | ... |
-| Dec 4 | [LEGALBENCH](link_to_your_note.md) | ... | ... |
+| Dec 5 | [Argumentation Structure Prediction](link_to_your_note.md) | Argument Mining | ... |
+| Dec 6 | [GPT-4 Passes the Bar Exam](link_to_your_note.md)| ... | ... |
+| Dec 7 | [Rule-Based Reasoning with LLM](link_to_your_note.md) | ... | ... |
+| Dec 8 | [LEGALBENCH](link_to_your_note.md) | ... | ... |
 
 ---
 
