@@ -8,7 +8,9 @@ To read the summary of this paper, click <a href="URL_HERE">here</a>.
 
  ---
 
-In this summary, we refer to the following paper:
+This is a citation from the original paper, which I have summarized. For additional details, refer to the original source.
 
 > [Detecting Arguments in CJEU Decisions on Fiscal State Aid](https://aclanthology.org/2022.argmining-1.14/) (Grundler et al., ArgMining 2022)
+> 
 > Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. Detecting Arguments in CJEU Decisions on Fiscal State Aid. In Proceedings of the 9th Workshop on Argument Mining, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics.
+
