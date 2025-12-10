@@ -2,7 +2,23 @@
 
 🔴 **Note: These notes are based on my understanding of the paper.**
 
-![image.png](55a5172b-b2b1-44f7-8260-88b7c6b4fd65.png)
+<p align="center">
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/36f535d9-da41-4317-846c-053f1842baac" />
+</p>
+
+<aside>
+💡
+
+This is a citation from the original paper, which I have summarized here. For additional details, refer to the original source.
+
+Please note that all tables and a figure are taken from the original paper.
+
+> [Detecting Arguments in CJEU Decisions on Fiscal State Aid](https://aclanthology.org/2022.argmining-1.14/) (Grundler et al., ArgMining 2022)
+• Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. [Detecting Arguments in CJEU Decisions on Fiscal State Aid](https://aclanthology.org/2022.argmining-1.14/). In *Proceedings of the 9th Workshop on Argument Mining*, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics.
+> 
+</aside>
+
+---
 
 👉 To better understand this paper, it is important to first explore its focus.
 
@@ -10,7 +26,7 @@
 
 An argumentation is a set of statements intended to convince the judge or jury that desired conclusion is correct under the law.
 
-![image.png](image.png)
+<img src="image.png" width="300" height="200">
 
 So, argumentation acts as bridge between its two components, Premises and Conclusion. 
 
@@ -37,7 +53,7 @@ This paper focuses on STEP 3, **argument structure prediction** in judicial deci
 4. Undercut (INH): The premise attacks the other premise (citation)
 5. Rephrase (REPH): The premise is rephrase of other premise.
 
-![image.png](0749087e-796f-4394-b80a-ac4d14587bff.png)
+<img src="0749087e-796f-4394-b80a-ac4d14587bff.png" width="400" height="400">
 
 ### 📝Example:
 
@@ -172,7 +188,7 @@ The authors used four models:
 💡 Note: They are non-learning algorithms. They are used to understand whether the real models actually learn something useful.
 
 1. **ResAttArg Ensemble** (Residual Attention Networks)
-    
+
     ![image.png](image%204.png)
     
     1. Embedding
@@ -197,7 +213,7 @@ The authors used four models:
             
             4️⃣ Relationship Classification: Predicts the link's type (e.g., SUP, ATT).
             
-2. **DistilRoBERTa** (Transformer-based)
+1. **DistilRoBERTa** (Transformer-based)
     
     It is a **distilled version** of RoBERTa, which itself is a variant of the BERT model.
     
@@ -233,15 +249,3 @@ The authors used four models:
 🟥 For secondary tasks → The residual model slightly improved the macro F1 score for **component classification** (distinguishing premises and conclusions) compared to prior work.
 
 🟥 For secondary tasks → The models were unsuccessful at the task of **relation classification** (predicting the type of link), always predicting the majority class (SUP).
-
-<aside>
-💡
-
-This is a citation from the original paper, which I have summarized here. For additional details, refer to the original source.
-
-Please note that all tables and figures are taken from the original paper.
-
-> [Detecting Arguments in CJEU Decisions on Fiscal State Aid](https://aclanthology.org/2022.argmining-1.14/) (Grundler et al., ArgMining 2022)
-• Giulia Grundler, Piera Santin, Andrea Galassi, Federico Galli, Francesco Godano, Francesca Lagioia, Elena Palmieri, Federico Ruggeri, Giovanni Sartor, and Paolo Torroni. 2022. [Detecting Arguments in CJEU Decisions on Fiscal State Aid](https://aclanthology.org/2022.argmining-1.14/). In *Proceedings of the 9th Workshop on Argument Mining*, pages 143–157, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics.
-> 
-</aside>
