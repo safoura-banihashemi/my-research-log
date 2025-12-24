@@ -122,11 +122,11 @@ The benchmark datasets that are used are:
 
 By fine-tuning multiple LLMs, both quantized and non-quantized, the authors achieve SOTA results on argument mining tasks.
 
-![image.png](image%201.png)
-
-![image.png](image%202.png)
-
-![image.png](image%203.png)
+<p align="center">
+  <img src="image%201.png" width="300" />
+  <img src="image%202.png" width="300" />
+  <img src="image%203.png" width="300" />
+</p>
 
 Notable Insights:
 
