@@ -31,12 +31,9 @@ This paper reformulates all tasks of Argument mining as **text generation proble
 ---
 
 ### 😊 Example:
-
-![0f5590ef.jpg](0f5590ef.jpg)
-
-🔵 Practical Example of how process implement:
-
 🔴 Note: this is additional from paper
+<img src="0f5590ef.jpg" width="300">
+🔵 Practical Example of how process implement:
 
 For example, the prompt gives the model an essay with 20 numbered components (`<AC0>` to `<AC19>`).
 
@@ -60,7 +57,7 @@ For fine-tuning, we use QLoRA strategy. To understand it better first pay attent
 
 1. What is quantized LLMs? 
 
-⇒ Is a **compressed version** of a LLM. Quantization ****stores model weights with fewer bits by rounding them, reducing memory requirement while trying to keep it as smart as possible.
+⇒ Is a **compressed version** of a LLM. Quantization stores model weights with fewer bits by rounding them, reducing memory requirement while trying to keep it as smart as possible.
 
 **NOW**
 
@@ -78,21 +75,16 @@ What is QLoRA ?
     
     When we fine-tune a model, we change $W → W'$ . Now that the main model is frozen, the model needs a place to learn new information. QLoRA injects **Adapters** (also known as LoRA).
     
-    $$
-    ⁍
-    $$
+    <p align="center">W′ = W + ΔW</p>
     
     Since the model already knows almost everything so fine-tuning only needs to adjust **a few directions** in weight space so ΔW can be **low-rank** (Rank is a number of independent rows of matrix). So factorizes to:
-    
-    $$
-    \Delta W = AB
-    $$
-    
 
+   <p align="center">ΔW = AB</p>
+    
 where,
 
 $$
-A \in R^{d*r} , B \in R^{r*d}
+A \in \mathbb{R}^{d \times r}, \quad B \in \mathbb{R}^{r \times d}
 $$
 
 which $r << d$ .
